@@ -4,9 +4,9 @@
 ## # TÍTULO <h1>
 ## ## TÍTULO <h2>
 ## ### TÍTULO <h3>
-## ## TÍTULO <h4>
-## ## TÍTULO <h5>
-## ## TÍTULO <h6>
+## #### TÍTULO <h4>
+## ##### TÍTULO <h5>
+## ###### TÍTULO <h6>
 > Exemplo de uso
 
 # TÍTULO
